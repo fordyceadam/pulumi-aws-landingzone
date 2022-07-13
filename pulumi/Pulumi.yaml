@@ -1,0 +1,6 @@
+name: aws-landingzone
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Create an AWS landing zone
